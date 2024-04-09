@@ -11,7 +11,7 @@ Usage:
 
 Place your test video (test_video.mp4) in the same directory as this script (detect_gesture_background_subtraction.py).
 Modify the file path in the script if needed (refer to test_video_path and output_video_path variables).
-Run the script using python detect_gesture_background_subtraction.py.
+Run the script using python detect_gesture_background_subtraction.ipynb.
 Output:
 
 The script will generate an output video (output_video.avi) with bounding boxes and "DETECTED" annotations around potential gestures identified in the video.
